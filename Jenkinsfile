@@ -1,7 +1,7 @@
 pipeline {
     agent any
     tools { 
-        maven 'maven363' 
+        maven 'Maven363' 
         jdk 'jdk8' 
     }
     stages {
